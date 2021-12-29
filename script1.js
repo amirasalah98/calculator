@@ -35,6 +35,7 @@ for (var i=0;i< nums.length;i++){
  }
 reset.onclick=function (){
     output.innerHTML=""
+    window.location.reload()
 
     }
 
